@@ -8,7 +8,7 @@
 ## Description
 A decentralized smart contract on Aptos blockchain for transparent and fair exam seating randomization. Eliminates bias and ensures tamper-proof seat allocation for educational institutions.
 
- 0xc1950e3e973cc32762dcb3e3fa2d55ae8a6ffd0bd3775367adefd3b35e838d47
+Transaction : 0xc1950e3e973cc32762dcb3e3fa2d55ae8a6ffd0bd3775367adefd3b35e838d47
  
 **Features:**
 - Blockchain-based transparent randomization
